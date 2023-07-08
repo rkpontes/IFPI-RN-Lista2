@@ -1,0 +1,12 @@
+html {
+    color: #000;
+    background-color: #fff;
+}
+
+p {
+    display: block;
+}
+
+ul {
+    list-style-type: circle;
+}
